@@ -1,6 +1,6 @@
-# Raroks 1008 Entertainment
+# Otkup Numizmatike
 
-*First ever website created using HTML 5 and CSS 3 made in my first year of studying.*
+*Second, responsive, website created using HTML 5 and CSS 3 made in my first year of studying.*
 
 
 ## Website Desing
@@ -10,8 +10,8 @@
 
 Only HTML and CSS design.
 
-### *Games page*
-![Games Image](git-image/image2.png)
+### *Evaluation page*
+![Evaluation Image](git-image/image2.png)
 
 Only HTML and CSS design.
 
@@ -20,16 +20,12 @@ Only HTML and CSS design.
 
 Only HTML and CSS design.
 
-### *Gallery page*
-![Gallery Image](git-image/image4.png)
-
-Only HTML and CSS design.
-
-### *Find us page*
-![Find us Image](git-image/image5.png)
+### *FAQ page*
+![FAQ Image](git-image/image4.png)
 
 Only HTML and CSS design.
 
 ### *Author page*
+![Author Image](git-image/image5.png)
 
 Only HTML and CSS design.
